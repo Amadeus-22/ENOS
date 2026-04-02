@@ -1,14 +1,14 @@
 {
   "Pagamento": [
-    {"Nome": "LIGHT", "Data": "DIA 4"},
-    {"Nome": "RIO PAE", "Data": "DIA 5"},
-    {"Nome": "NATURGE", "Data": "DIA 5"},
-    {"Nome": "FACULDADE", "Data": "DIA 10"},
-    {"Nome": "PLANO DA MÔNICA", "Data": "DIA 10"},
-    {"Nome": "CARTÃO DO FILHO AMADO", "Data": "DIA 7"},
-    {"Nome": "CAIXINHA", "Data": "DIA 5"},
-    {"Nome": "ANDRESSA", "Data": "DIA 5"},
-    {"Nome": "RECEITA FEDERAL", "Data": "ULTIMO DIA DO MÊS DEBITO AUTOMÁTICO"},
-    {"Nome": "CARTÃO FRANCELINA", "Data": "DIA 10"}
+    {"Nome": "LIGHT", "Dia": 4},
+    {"Nome": "RIO PAE", "Dia": 5},
+    {"Nome": "NATURGE", "Dia": 5},
+    {"Nome": "FACULDADE", "Dia": 10},
+    {"Nome": "PLANO DA MÔNICA", "Dia": 10},
+    {"Nome": "CARTÃO DO FILHO AMADO", "Dia": 7},
+    {"Nome": "CAIXINHA", "Dia": 5},
+    {"Nome": "ANDRESSA", "Dia": 5},
+    {"Nome": "RECEITA FEDERAL", "Dia": "ULTIMO"},
+    {"Nome": "CARTÃO FRANCELINA", "Dia": 10}
   ]
-}       
+}
